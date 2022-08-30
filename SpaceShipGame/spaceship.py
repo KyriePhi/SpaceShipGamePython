@@ -1,3 +1,4 @@
+# Design/Program : Mehmet Berat Şenel ( mehmetberat.com )
 import pygame
 import random
 
